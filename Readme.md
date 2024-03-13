@@ -1,3 +1,5 @@
-At first run the  ```  sudo ./setup.sh  ```  to satisfy the requirements
+```  sudo ./setup.sh  ```
 
-After the packages are installed go ahead and use it 
+``` python3 portscanner.py ```
+
+After that give the IP address or url and select the tool 
