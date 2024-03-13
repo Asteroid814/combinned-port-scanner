@@ -1,3 +1,3 @@
-at first run the setup.sh file with sudo to install required packages 
+``` At first run the -> sudo ./setup.sh```
 
-after the packages are installed go ahead and use it 
+After the packages are installed go ahead and use it 
